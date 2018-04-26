@@ -1,11 +1,21 @@
 # KOvi Stock-Analysis Platform (UNDER DEVELOPMENT)
 
-Stock Analysis platform made in Python with a GUI.
-Sample data has been added to test functions.
+Stock Analysis platform made in Python with Tkinter. Based on tutorials by Sentdex. 
+
+## Sample data has been added to test functions.
+
+---
 
 ## Features to be added:
-  1. Regression Analysis
+  ~~1. Regression Analysis~~
   2. Sentiment Analysis
   3. Candlestick Graphs
-  4. Comparison Graphs
+  ~~4. Correlation Table~~
+
+---
+
+## Features Added:
+  1. Machine Learning using KNeighbors, SVM and Random Forest.
+  2. Correlation Table
+  3. Extremely Simple Login system. (Username: admin Password: admin)
   
