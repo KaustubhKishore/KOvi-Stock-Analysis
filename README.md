@@ -2,15 +2,15 @@
 
 Stock Analysis platform made in Python with Tkinter. Based on tutorials by Sentdex. 
 
-## Sample data has been added to test functions.
+#### Sample data has been added to test functions.
 
 ---
 
 ## Features to be added:
-  ~~1. Regression Analysis~~
+  1. ~~Regression Analysis ~~
   2. Sentiment Analysis
   3. Candlestick Graphs
-  ~~4. Correlation Table~~
+  4. ~~Correlation Table~~
 
 ---
 
