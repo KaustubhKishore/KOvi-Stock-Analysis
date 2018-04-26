@@ -7,7 +7,7 @@ Stock Analysis platform made in Python with Tkinter. Based on tutorials by Sentd
 ---
 
 ## Features to be added:
-  1. ~~Regression Analysis ~~
+  1. ~~Regression Analysis~~
   2. Sentiment Analysis
   3. Candlestick Graphs
   4. ~~Correlation Table~~
