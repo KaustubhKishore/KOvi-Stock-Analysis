@@ -8,8 +8,8 @@ Stock Analysis platform made in Python with Tkinter. Based on tutorials by Sentd
 
 ## Features to be added:
 
-  2. Sentiment Analysis
-  3. Candlestick Graphs
+  1. Sentiment Analysis
+  2. Candlestick Graphs
 
 
 ---
