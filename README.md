@@ -1,4 +1,4 @@
-# KOvi Stock-Analysis Platform (UNDER DEVELOPMENT)
+# KOvi Stock-Analysis Platform
 
 Stock Analysis platform made in Python with Tkinter. Based on tutorials by Sentdex. 
 
