@@ -10,7 +10,7 @@ Stock Analysis platform made in Python with Tkinter. Based on tutorials by Sentd
   1. 
   2. Sentiment Analysis
   3. Candlestick Graphs
-  4. ~~Correlation Table~~
+  4. 
 
 ---
 
@@ -19,4 +19,5 @@ Stock Analysis platform made in Python with Tkinter. Based on tutorials by Sentd
   2. Correlation Table
   3. Extremely Simple Login system. (Username: admin Password: admin)
   4. Regression Analysis
+  5. Correlation Table
   
